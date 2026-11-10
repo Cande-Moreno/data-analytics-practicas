@@ -1,8 +1,3 @@
-
--- Motor utilizado: Microsoft SQL Server
--- Proyecto: RetailPro
--- Base de datos: Ventas_Tech_DB
-
 USE Ventas_Tech_DB;
 GO
 
